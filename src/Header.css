@@ -1,0 +1,470 @@
+.medialogo{
+    padding-left: 250px;
+    
+}
+/* .headerlogo{
+    
+    width: 00px;
+    height: 10px;
+   
+} */
+.main {   
+    
+    background-color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    
+
+  }
+
+
+
+
+  .babyimage{
+      width: 15%;
+      height: 10%;
+       margin-left: 70px; 
+  }
+
+
+
+ .first{
+    top: 0; right: 0; width: 1000px; 
+    text-align: justify;
+    position: absolute;
+ }   
+
+.lastt1{
+    /* top: 0; right: 0; width: 1000px; 
+    text-align: justify;
+    position: absolute; */
+    margin-left: 220px;
+    color: rgb(192, 190, 190);
+    font-weight: bold;
+}    
+
+.two{
+    margin-left: 220px;
+    font-size: 18px;
+
+}
+
+.special{
+    color: rgb(5, 175, 5);
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 220px;
+}
+
+
+.three{
+    margin-left: 220px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.staringimage{
+    width: 5%;
+    height: 5%;
+}
+
+.four{
+    margin-left: 220px;
+    color: rgb(128, 126, 126);
+}
+
+.five{
+    margin-left: 220px;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(41, 40, 40);
+}
+
+.fklogoimage{
+    width: 8%;
+      height: 8%;
+}
+
+.sp{
+    margin-left: 220px;
+    font-size: 13px;
+}
+
+.six{
+    margin-left: 220px;
+    font-size: 13px;
+}
+  
+.seven{
+    margin-left: 220px;
+    font-size: 13px;
+}
+
+.eight{
+    margin-left: 220px;
+    font-size: 13px;
+}
+
+.nine{
+    margin-left: 220px;
+    font-size: 13px;
+}
+
+.ten{
+    margin-left: 220px;
+    color: rgb(134, 132, 132);
+    font-size: 14px;
+}
+
+.eleven{
+    margin-left: 220px;
+    color: rgb(134, 132, 132);
+    font-size: 14px;
+}
+
+
+/* .last{
+
+        top: 0; right: 0; width: 1000px; 
+        text-align: justify;
+        position: absolute;
+        margin-left: 90px;
+         
+     } */
+
+.twelve{
+    margin-left: 220px;
+    font-size: 13px;
+    font-weight: bold;
+}     
+
+.twe1{
+    margin-left: 220px;
+    font-size: 12px;
+}
+
+.thirteen{
+    margin-left: 220px;
+    color: #2874f0;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.fourteen{
+    margin-left: 220px;
+    color: rgb(134, 132, 132);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.WGR{
+    margin-left: 220px;
+}
+.greenbabyimage{
+    width: 5%;
+    height: 5%;
+    margin-left: 90px;
+
+}
+
+.redbabyimage{
+    width: 5%;
+    height: 5%;
+    margin-left: 60px;
+}
+
+
+.wbabyimage{
+    width: 5%;
+    height: 5%;
+    margin-left: 60px;
+}
+
+
+.age{
+    margin-left: 220px;
+    color: rgb(134, 132, 132);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+.sizebutton{
+    margin-left: 220px;
+}
+
+.kids{
+    background-color: white;
+    border: 2px solid #e7e7e7;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   width: 180px; 
+   margin-left: 5px;
+   font-weight: bold;
+   
+}
+
+.men{
+    background-color: white;
+    border: 2px solid #e7e7e7;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   width: 160px; 
+   margin-left: 5px;
+   font-weight: bold;
+   
+}
+
+.leg{
+    background-color: white;
+    border: 2px solid #e7e7e7;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   width: 160px; 
+   margin-left: 5px;
+   font-weight: bold;
+   
+}
+
+
+.ultra{
+    background-color: white;
+    border: 2px solid #e7e7e7;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   width: 160px; 
+   margin-left: 5px;
+   opacity: 0.6;
+   font-weight: bold;
+}
+
+.sell{
+    margin-left: 220px;
+    color: rgb(134, 132, 132);
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.an{
+    margin-left: 220px;
+    color: #2874f0;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+.return{
+    margin-left: 220px;
+    font-size: 14px;
+}
+
+.viewmore{
+    margin-left: 220px;
+    color: #2874f0;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.prodet{
+    margin-left: 220px;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgb(41, 40, 40);
+    
+}
+
+.rating{
+    margin-left: 220px;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgb(41, 40, 40);
+}
+
+.images{
+    margin-left: 220px;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(41, 40, 40);
+}
+
+.customer{
+    margin-left: 220px;
+}
+.blueimage{
+    width: 5%;
+    height: 5%;
+    margin-left: 40px;
+}
+
+.blueeeimage{
+    width: 5%;
+    height: 5%;
+    margin-left: 40px;
+}
+
+.bluecatimage{
+    width: 5%;
+    height: 5%;
+    margin-left: 40px;
+}
+
+.cucuimage{
+    width: 5%;
+    height: 5%;
+    margin-left: 40px;
+}
+
+
+.bluemickyimage{
+    width: 5%;
+    height: 5%;
+    margin-left: 40px;
+}
+
+.ho1{
+    width: 75%;
+    margin-left: 220px;
+    color: rgb(167, 164, 164);
+    
+}
+.ho2{
+    width: 75%;
+    margin-left: 220px;
+    color: rgb(167, 164, 164);
+}
+
+.ho3{
+    width: 75%;
+    margin-left: 220px;
+    color: rgb(167, 164, 164);
+}
+
+
+.review{
+    margin-left: 220px;
+    font-size: 14px;
+}
+
+.buttons{
+  margin-left: 10px;
+}
+
+
+.addtocart{
+    background-color: darkorange;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 200px; 
+  
+}
+
+
+.buynow{
+    background-color: orangered;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+   width: 200px; 
+   margin-left: 5px;
+}
+
+
+/* .WGR{
+    width: 5%;
+    height: 5%;
+} */
+
+.customer1{
+    margin-left: 220px;
+}
+
+.review1{
+    margin-left: 220px;
+    font-size: 14px;
+}
+
+.cusname{
+     margin-left: 220px;
+     font-size: 14px;
+     color: gray;
+     font-weight: bold;
+}
+
+.cusrat{
+    margin-left: 220px;
+    font-size: 14px;
+    color: gray;
+}
+
+
+.cusname1{
+    margin-left: 220px;
+    font-size: 14px;
+    color: gray;
+    font-weight: bold;
+}
+
+.cusrat1{
+   margin-left: 220px;
+   font-size: 14px;
+   color: gray;
+}
+  .navimage{
+    width: 145%;
+    height: 25%;
+   
+}
+
+  .image{
+      width: 100%;
+      height: 10%;
+     
+  }
+
+  .bottomlink-image{
+    width: 100%;
+    height: 50%;
+ 
+   
+}
+  
